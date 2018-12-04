@@ -1,0 +1,13 @@
+/*
+* Third Party
+*/
+@import "../../bower_components/normalize.css/normalize.css";
+
+/*
+* Custom
+*/
+@import "partials/open-sans.css";
+@import "partials/app.css";
+@import "partials/helper.css";
+@import "partials/animate.css";
+@import "partials/font-awesome.min.css";

@@ -1,0 +1,18 @@
+<svg width="105" height="105" viewBox="0 0 105 105" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>vvv</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-8178 -320)">
+<g id="if_14_939747">
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="matrix(0.962762 0.27035 -0.27035 0.962762 8201.07 320.13)" fill="#68217A"/>
+</g>
+<g id="B 1">
+<use xlink:href="#path1_fill" transform="matrix(0.962762 0.27035 -0.27035 0.962762 8212.08 339.748)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 77.7792 0L 7.07084 0C 3.18188 0 0 3.18188 0 7.07084L 0 77.7792C 0 81.6682 3.18188 84.85 7.07084 84.85L 77.7792 84.85C 81.6682 84.85 84.85 81.6682 84.85 77.7792L 84.85 7.07084C 84.85 3.18188 81.6682 0 77.7792 0Z"/>
+<path id="path1_fill" d="M 40.8341 0L 19.4448 21.2125L 5.30313 10.6063L 0 12.374L 0 38.8896L 5.30313 42.425L 19.4448 31.8188L 40.4805 53.0313L 53.0313 47.7281L 53.0313 5.12636L 40.8341 0ZM 5.30313 33.5865L 5.30313 19.4448L 14.1417 26.5156L 5.30313 33.5865ZM 40.6573 37.1219L 26.5156 26.5156L 40.6573 15.9094L 40.6573 37.1219Z"/>
+</defs>
+</svg>

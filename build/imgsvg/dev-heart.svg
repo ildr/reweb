@@ -1,0 +1,22 @@
+<svg width="78" height="78" viewBox="0 0 78 78" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Group.svg</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-8655 -81)">
+<g id="Group">
+<g id="Rectangle 16">
+<use xlink:href="#path0_fill" transform="matrix(0.982638 -0.185533 0.185533 0.982638 8655.11 93.3575)" fill="#EB5757"/>
+</g>
+<g id="if_icons_like_1564509">
+<g id="icons">
+<g id="like">
+<use xlink:href="#path1_fill" transform="matrix(0.982638 -0.185533 0.185533 0.982638 8674.44 109.018)" fill="#F1F1F1"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 0 10C 0 4.47715 4.47715 0 10 0L 56 0C 61.5228 0 66 4.47715 66 10L 66 56C 66 61.5228 61.5228 66 56 66L 10 66C 4.47715 66 0 61.5228 0 56L 0 10Z"/>
+<path id="path1_fill" d="M 30.8259 2.86825C 34.5589 6.59918 34.1441 12.4029 30.2729 15.9956L 18.6593 26.912C 17.5533 27.8793 15.7559 27.8793 14.6499 26.912L 3.03633 15.9956C -0.696608 12.4029 -1.11138 6.59918 2.4833 2.86825C 6.49275 -0.862683 12.8526 -1.00087 16.7237 2.73007C 20.5949 -1.00087 26.9548 -0.862683 30.8259 2.86825Z"/>
+</defs>
+</svg>

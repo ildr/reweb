@@ -1,0 +1,36 @@
+body {
+    background: url('../img/pattern/mustard-diamonds_black.png') !important;
+  }
+
+  .nav-mobile {
+    border-bottom: 1px solid rgba(255,255,255,.11) !important;
+    background: none !important;
+    color: #fff !important;
+  }
+
+  .footer {
+    border-top: 1px solid rgba(255, 255, 255, 0.11) !important;
+    color: #fff !important;
+    background: none !important;
+  }
+
+  body {
+  color: #fff !important;
+  }
+
+  .nav-mobile__link {
+    color: #fff !important;
+  }
+
+  .nav__item-link {
+    color: #fff !important;
+  }
+
+  .nav-mobile__link:hover {
+  color: #fff !important;
+  opacity: .5 !important;
+}
+
+.button-stroke {
+  color: #fff !important;
+}

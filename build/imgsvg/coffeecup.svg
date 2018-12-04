@@ -1,0 +1,20 @@
+<svg width="26" height="29" viewBox="0 0 26 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>if_coffee-cup_383158</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-2700 207)">
+<g id="if_coffee-cup_383158">
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(2701.03 -198)" fill="#FFFFFF"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(2700 -207)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M -3.33786e-08 0L 3.49 17.478C 3.49 18.854 4.608 20 5.984 20L 11.965 20L 17.946 20C 19.322 20 20.439 18.854 20.439 17.478L 23.93 0L 11.965 0L -3.33786e-08 0Z"/>
+<path id="path1_fill" d="M 23.524 3L 21 3L 21 2.824C 21 1.264 19.736 0 18.176 0L 7.824 0C 6.264 0 5 1.264 5 2.824L 5 3L 2.476 3C 0.946 3 0 3.939 0 5.468L 0 7L 7.824 7L 18.176 7L 26 7L 26 5.468C 26 3.939 25.053 3 23.524 3Z"/>
+</defs>
+</svg>

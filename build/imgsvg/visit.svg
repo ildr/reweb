@@ -1,0 +1,43 @@
+<svg width="82" height="56" viewBox="0 0 82 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>AAA</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-2298 619)">
+<g id="visit-cards">
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(2313.77 -603.273)" fill="#524E4D"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(2305.88 -611.098)" fill="#7A7674"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(2298 -619)" fill="#BEC8D6"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path2_fill" transform="translate(2312.12 -608.157)" fill="#FFE1D6"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path3_fill" transform="translate(2307.67 -596.323)" fill="#FFFFFF"/>
+</g>
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path4_fill" transform="translate(2332.94 -609.263)" fill="#524E4D"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path5_fill" transform="translate(2332.94 -601.075)" fill="#524E4D"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path6_fill" transform="translate(2332.94 -592.888)" fill="#524E4D"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 66.2316 0L 0 0L 0 40.2734L 66.2316 40.2734L 66.2316 0Z"/>
+<path id="path1_fill" d="M 66.2316 0L 0 0L 0 40.2734L 66.2316 40.2734L 66.2316 0Z"/>
+<path id="path2_fill" d="M 4.46005 8.85132C 6.92327 8.85132 8.9201 6.86989 8.9201 4.42566C 8.9201 1.98144 6.92327 0 4.46005 0C 1.99683 0 0 1.98144 0 4.42566C 0 6.86989 1.99683 8.85132 4.46005 8.85132Z"/>
+<path id="path3_fill" d="M 8.9201 7.75987e-07C 4.65784 7.75987e-07 1.07129 2.86203 -1.56403e-07 6.7545L 17.8402 6.7545C 16.7689 2.86203 13.1824 7.75987e-07 8.9201 7.75987e-07Z"/>
+<path id="path4_fill" d="M 11.6918 4.42566L 2.23003 4.42566C 0.998419 4.42566 -1.07527e-06 3.43478 -1.07527e-06 2.21283C -1.07527e-06 0.99088 0.998419 -1.18338e-06 2.23003 -1.18338e-06L 11.6918 -1.18338e-06C 12.9234 -1.18338e-06 13.9218 0.99088 13.9218 2.21283C 13.9218 3.43478 12.9234 4.42566 11.6918 4.42566Z"/>
+<path id="path5_fill" d="M 21.1534 4.42566L 2.23002 4.42566C 0.998417 4.42566 5.86512e-08 3.43478 5.86512e-08 2.21283C 5.86512e-08 0.990879 0.998417 7.95386e-07 2.23002 7.95386e-07L 21.1534 7.95386e-07C 22.385 7.95386e-07 23.3834 0.990879 23.3834 2.21283C 23.3834 3.43478 22.385 4.42566 21.1534 4.42566Z"/>
+<path id="path6_fill" d="M 21.1534 4.42566L 2.23002 4.42566C 0.998417 4.42566 5.86512e-08 3.43478 5.86512e-08 2.21283C 5.86512e-08 0.990881 0.998417 3.49194e-07 2.23002 3.49194e-07L 21.1534 3.49194e-07C 22.385 3.49194e-07 23.3834 0.990881 23.3834 2.21283C 23.3834 3.43478 22.385 4.42566 21.1534 4.42566Z"/>
+</defs>
+</svg>

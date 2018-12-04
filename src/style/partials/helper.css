@@ -1,0 +1,146 @@
+.helper {
+	position: fixed;
+	z-index: 4;
+    right: 15px;
+	bottom: 0;
+}
+
+.helper__toggle {
+
+}
+
+
+
+.helper__open,.helper__close {
+	width: 50px;
+    bottom: 21px;
+    right: 30px;
+	cursor: pointer;
+	transition: opacity .3s;
+	z-index: 4;
+	    position: fixed;
+}
+
+.helper__close.close {
+	opacity: 0;
+}
+
+.helper__said {
+    position: absolute;
+    right: 164px;
+    bottom: 81px;
+    border-radius: 6px;
+    padding: 14px;
+    color: #333;
+    font-weight: 900;
+    background: #fff;
+    text-overflow: ellipsis;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    overflow: hidden;
+    transition: all .4s;
+}
+
+.helper__button {
+    background: #27ae60;
+    border: 0;
+    display: inline-block;
+    min-width: 40px;
+    line-height: 40px;
+    /* padding-top: 12px; */
+    /* height: 40px; */
+    border-radius: 6px;
+    text-transform: uppercase;
+    padding: 0 10px;
+    box-sizing: border-box;
+    margin: 0;
+    cursor: pointer;
+    font-weight: 900;
+    height: 40px;
+    text-align: center;
+}
+
+.helper__button img {
+    margin-top: 12px;
+    display: inline;
+}
+
+.helper__answer {
+    white-space: nowrap;
+    position: fixed;
+    right: 180px;
+    transition: all .3s;
+    bottom: 19px;
+}
+
+.helper__answer-item {
+    vertical-align: top;
+    border-radius: 12px;
+}
+
+.helper__answer-item.input {
+    width: initial;
+    margin-bottom: 0;
+}
+
+.helper__person-img {
+	width: 198px;
+	transition: all .3s;
+}
+
+.helper.close .helper__person-img{
+    margin-bottom: -1000px;
+}
+
+.helper.close .helper__answer {
+	margin-bottom: -100px;
+}
+
+.helper.close .helper__said {
+	margin-bottom: -300px;
+}
+
+.footer-ul,.footer-copyright {
+	opacity: 1;
+	transition: .2s;
+}
+
+.footer.close .footer-ul{
+	opacity: 0;
+}
+
+.footer.close .footer-copyright{
+	opacity: 0;
+}
+
+@media screen and (max-width: 768px) {
+	.helper__open,.helper__close {
+    /* display: none; */
+    top: 0;
+    z-index: 5;
+    right: 0;
+    position: fixed;
+    padding: 19px;
+    display: none;
+	}
+
+	.footer.close .footer-ul{
+	opacity: 1;
+	}
+
+	.footer.close .footer-copyright{
+		opacity: 1;
+	}
+
+	.helper {
+		display: none;
+	}
+}
+
+@media screen and (max-width: 480px) {
+	.helper__open,.helper__close {
+    padding: 12px;
+	}
+
+}

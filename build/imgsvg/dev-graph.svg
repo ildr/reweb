@@ -1,0 +1,44 @@
+<svg width="103" height="103" viewBox="0 0 103 103" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>i1.svg</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-8153 625)">
+<g id="i1">
+<g id="Rectangle 15">
+<use xlink:href="#path0_fill" transform="matrix(0.967731 0.251985 -0.251985 0.967731 8173.01 -627)" fill="#282828"/>
+</g>
+<g id="if_8_2169571">
+<g id="Group">
+<g id="Group">
+<g id="Group">
+<g id="Group">
+<g id="XMLID 5">
+<use xlink:href="#path1_fill" transform="matrix(0.967731 0.251985 -0.251985 0.967731 8207.24 -581.607)" fill="#FFFFFF"/>
+</g>
+<g id="XMLID 4">
+<use xlink:href="#path2_fill" transform="matrix(0.967731 0.251985 -0.251985 0.967731 8223.22 -585.847)" fill="#FFFFFF"/>
+</g>
+<g id="XMLID 3">
+<use xlink:href="#path3_fill" transform="matrix(0.967731 0.251985 -0.251985 0.967731 8191.19 -577.051)" fill="#FFFFFF"/>
+</g>
+<g id="XMLID 2">
+<use xlink:href="#path4_fill" transform="matrix(0.967731 0.251985 -0.251985 0.967731 8174.89 -571.536)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<g id="XMLID 1">
+<use xlink:href="#path5_fill" transform="matrix(0.967731 0.251985 -0.251985 0.967731 8223.13 -597.628)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 0 10C 0 4.47715 4.47715 0 10 0L 77.3305 0C 82.8534 0 87.3305 4.47715 87.3305 10L 87.3305 77.3305C 87.3305 82.8534 82.8534 87.3305 77.3305 87.3305L 10 87.3305C 4.47715 87.3305 0 82.8534 0 77.3305L 0 10Z"/>
+<path id="path1_fill" d="M 6.80455e-07 6.81546e-07L 6.80455e-07 36.2351L 9.53203 36.2351L 9.53203 6.81546e-07L 6.80455e-07 6.81546e-07Z"/>
+<path id="path2_fill" d="M 9.52089 0L 0 0L 0 44.3643L 9.52089 44.3643L 9.52089 0Z"/>
+<path id="path3_fill" d="M 9.52088 0L 0 0L 0 27.7821L 9.52088 27.7821L 9.52088 0Z"/>
+<path id="path4_fill" d="M 0 -6.81546e-07L 0 18.3353L 9.52088 18.3353L 9.52088 -6.81546e-07L 0 -6.81546e-07Z"/>
+<path id="path5_fill" d="M 7.85974 1.06492e-08L -1.36091e-06 12.0486L 15.6303 12.0486L 7.85974 1.06492e-08Z"/>
+</defs>
+</svg>

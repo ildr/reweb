@@ -1,0 +1,132 @@
+<svg width="114" height="114" viewBox="0 0 114 114" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>AAA</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-9217 119)">
+<g id="content 2">
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(9232.46 -109.339)" fill="#27AE60"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(9222.8 -99.678)" fill="#FFFFFF"/>
+</g>
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(9234.39 -119)" fill="#FFFFFF"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(9242.12 -119)" fill="#FFFFFF"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(9249.85 -119)" fill="#FFFFFF"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(9257.58 -119)" fill="#FFFFFF"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(9265.3 -119)" fill="#FFFFFF"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(9273.03 -119)" fill="#FFFFFF"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(9280.76 -119)" fill="#FFFFFF"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(9288.49 -119)" fill="#FFFFFF"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(9296.22 -119)" fill="#FFFFFF"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(9303.95 -119)" fill="#FFFFFF"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(9311.68 -119)" fill="#FFFFFF"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(9319.41 -119)" fill="#FFFFFF"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(9327.14 -119)" fill="#FFFFFF"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(9327.14 -111.271)" fill="#FFFFFF"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(9327.14 -103.542)" fill="#FFFFFF"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(9327.14 -95.8136)" fill="#FFFFFF"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(9327.14 -88.0847)" fill="#FFFFFF"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(9327.14 -80.3559)" fill="#FFFFFF"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path2_fill" transform="translate(9327.14 -72.6271)" fill="#FFFFFF"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(9327.14 -41.7119)" fill="#FFFFFF"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(9327.14 -33.983)" fill="#FFFFFF"/>
+</g>
+</g>
+<g id="Vector">
+<use xlink:href="#path3_fill" transform="translate(9217 -74.5593)" fill="#27AE60"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path4_fill" transform="translate(9217 -90.017)" fill="#129248"/>
+</g>
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(9222.8 -84.2203)" fill="#FFFFFF"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(9230.53 -84.2203)" fill="#FFFFFF"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(9238.25 -84.2203)" fill="#FFFFFF"/>
+</g>
+</g>
+<g id="Vector">
+<use xlink:href="#path5_fill" transform="translate(9224.73 -59.1017)" fill="#129248"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path6_fill" transform="translate(9238.25 -47.5085)" fill="#FFFFFF"/>
+</g>
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path7_fill" transform="translate(9269.17 -61.0339)" fill="#129248"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path7_fill" transform="translate(9269.17 -53.3051)" fill="#129248"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path7_fill" transform="translate(9269.17 -45.5763)" fill="#129248"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path7_fill" transform="translate(9269.17 -37.8475)" fill="#129248"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path7_fill" transform="translate(9269.17 -30.1186)" fill="#129248"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path7_fill" transform="translate(9269.17 -22.3898)" fill="#129248"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 88.8814 0L 0 0L 0 85.017L 88.8814 85.017L 88.8814 0Z"/>
+<path id="path1_fill" d="M 3.86441 0L 0 0L 0 3.86441L 3.86441 3.86441L 3.86441 0Z"/>
+<path id="path2_fill" d="M 3.86441 0L 0 0L 0 27.0508L 3.86441 27.0508L 3.86441 0Z"/>
+<path id="path3_fill" d="M 0 69.5593L 77.2881 69.5593C 81.5564 69.5593 85.017 66.0988 85.017 61.8305L 85.017 0L 0 0L 0 69.5593Z"/>
+<path id="path4_fill" d="M 85.017 0L 0 0L 0 15.4576L 85.017 15.4576L 85.017 0Z"/>
+<path id="path5_fill" d="M 19.322 38.6441C 29.9933 38.6441 38.6441 29.9933 38.6441 19.322C 38.6441 8.65077 29.9933 0 19.322 0C 8.65077 0 0 8.65077 0 19.322C 0 29.9933 8.65077 38.6441 19.322 38.6441Z"/>
+<path id="path6_fill" d="M 0 15.4576L 0 0L 15.4576 7.72881L 0 15.4576Z"/>
+<path id="path7_fill" d="M 25.1186 0L 0 0L 0 3.86441L 25.1186 3.86441L 25.1186 0Z"/>
+</defs>
+</svg>
